@@ -1,9 +1,9 @@
 /**
  * Angular HERE Maps - AngularJS Provider for working with the HERE Maps API
  * @version v1.0.0 - 2014-02-17
- * @link http://www.eyecatch.no/
- * @author Ove Andersen <ove.andersen@outlook.com>
- * @license Apache License, Version 2.0, http://opensource.org/licenses/Apache-2.0)
+ * @link https://github.com/azzlack/angular-heremaps
+ * @author Ove Andersen <ove.andersen@outlook.com>, http://www.eyecatch.no/
+ * @license Apache License, Version 2.0, http://opensource.org/licenses/Apache-2.0
  */
 (function (document, angular) {
     'use strict';

@@ -10,8 +10,8 @@ module.exports = function(grunt) {
           banner: '/**\n' +
           ' * <%= pkg.description %>\n' +
           ' * @version v<%= pkg.version %> - <%= grunt.template.today("yyyy-mm-dd") %>\n' +
-          ' * @link <%= pkg.homepage %>\n' +
-          ' * @author <%= pkg.author.name %> <<%= pkg.author.email %>>\n' +
+          ' * @link <%= pkg.repository.url %>\n' +
+          ' * @author <%= pkg.author.name %> <<%= pkg.author.email %>>, <%= pkg.author.url %>\n' +
           ' * @license <%= pkg.licenses[0].type %>, <%= pkg.licenses[0].url %>\n' +
           ' */\n'
         },

@@ -2,7 +2,7 @@
   "name": "angular-heremaps",
   "version": "1.0.0",
   "description": "Angular HERE Maps - AngularJS Provider for working with the HERE Maps API",
-  "homepage": "http://www.eyecatch.no/",
+  "homepage": "https://github.com/azzlack/angular-heremaps",
   "author": {
     "name": "Ove Andersen",
     "email": "ove.andersen@outlook.com",
