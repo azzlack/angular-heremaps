@@ -32,6 +32,13 @@ AngularJS Provider for working with the HERE Maps API
                 center: [64, 10]
             });
         });
+        
+#### Events
+There are currently 3 events that you can subscribe to:
+
+**`heremaps-initialized`** The map script has been loaded, but not configured  
+**`heremaps-loaded`** The map features have been loaded, and the map can be configured with appId, appCode, etc.  
+**`heremaps-error`** An error occured while loading the map script
 
 ### Contributing
 
